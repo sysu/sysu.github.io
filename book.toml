@@ -1,0 +1,6 @@
+[book]
+authors = ["huangjj27"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "中山大学开源技术站"
